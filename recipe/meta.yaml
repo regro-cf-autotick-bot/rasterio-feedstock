@@ -1,4 +1,3 @@
-{% set tests_to_skip = "test_merge_out_of_range_nodata" %}
 {% set version = "1.5.0" %}
 
 package:
